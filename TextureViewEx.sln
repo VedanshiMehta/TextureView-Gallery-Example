@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextureViewEx", "TextureViewEx\TextureViewEx.csproj", "{ADF42069-E5CC-4895-826A-D2620DF4368D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADF42069-E5CC-4895-826A-D2620DF4368D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADF42069-E5CC-4895-826A-D2620DF4368D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADF42069-E5CC-4895-826A-D2620DF4368D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{ADF42069-E5CC-4895-826A-D2620DF4368D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADF42069-E5CC-4895-826A-D2620DF4368D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ADF42069-E5CC-4895-826A-D2620DF4368D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65CC605D-23E2-48F7-BF57-E01C740015CE}
+	EndGlobalSection
+EndGlobal
